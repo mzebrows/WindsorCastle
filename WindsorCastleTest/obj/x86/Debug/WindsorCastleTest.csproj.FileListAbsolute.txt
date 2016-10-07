@@ -1,0 +1,13 @@
+C:\PROJECTS\TESTS\WindsorCastleTest\WindsorCastleTest\bin\Debug\WindsorCastleTest.exe
+C:\PROJECTS\TESTS\WindsorCastleTest\WindsorCastleTest\bin\Debug\WindsorCastleTest.pdb
+C:\PROJECTS\TESTS\WindsorCastleTest\WindsorCastleTest\bin\Debug\Castle.Core.dll
+C:\PROJECTS\TESTS\WindsorCastleTest\WindsorCastleTest\bin\Debug\Castle.Windsor.dll
+C:\PROJECTS\TESTS\WindsorCastleTest\WindsorCastleTest\bin\Debug\Castle.Core.xml
+C:\PROJECTS\TESTS\WindsorCastleTest\WindsorCastleTest\bin\Debug\Castle.Windsor.xml
+C:\PROJECTS\TESTS\WindsorCastleTest\WindsorCastleTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\PROJECTS\TESTS\WindsorCastleTest\WindsorCastleTest\obj\x86\Debug\WindsorCastleTest.Form1.resources
+C:\PROJECTS\TESTS\WindsorCastleTest\WindsorCastleTest\obj\x86\Debug\WindsorCastleTest.Properties.Resources.resources
+C:\PROJECTS\TESTS\WindsorCastleTest\WindsorCastleTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\PROJECTS\TESTS\WindsorCastleTest\WindsorCastleTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\PROJECTS\TESTS\WindsorCastleTest\WindsorCastleTest\obj\x86\Debug\WindsorCastleTest.exe
+C:\PROJECTS\TESTS\WindsorCastleTest\WindsorCastleTest\obj\x86\Debug\WindsorCastleTest.pdb
